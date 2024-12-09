@@ -174,4 +174,7 @@ The platform provides a comprehensive solution for event and booking management 
 
 --- 
 
-This format maintains clarity, professional presentation, and logical flow for better readability. 😊 
+## 🎥 **Demo Video**
+
+Watch the app demo here: [Event Management Platform Demo](https://drive.google.com/file/d/16sr9xOkraMGijH0cVcbGLV9nObkJlZmU/view?usp=drive_link)
+
